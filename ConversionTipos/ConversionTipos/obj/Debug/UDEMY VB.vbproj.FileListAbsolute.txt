@@ -1,0 +1,17 @@
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\bin\Debug\ConversionTipos.exe.config
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\bin\Debug\ConversionTipos.exe
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\bin\Debug\ConversionTipos.pdb
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\bin\Debug\ConversionTipos.xml
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\UDEMY VB.vbproj.AssemblyReference.cache
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.Form1.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.Form2.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormOperadores.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormOperadoresComparacion.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.Resources.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\UDEMY VB.vbproj.GenerateResource.cache
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\UDEMY VB.vbproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.exe
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.xml
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.pdb
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormOperadoresConcatenacion.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormOperadoresLogicos.resources

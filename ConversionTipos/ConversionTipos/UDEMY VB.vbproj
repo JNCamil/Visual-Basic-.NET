@@ -92,6 +92,24 @@
     <Compile Include="FormOperadores.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormOperadoresComparacion.Designer.vb">
+      <DependentUpon>FormOperadoresComparacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormOperadoresComparacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOperadoresConcatenacion.Designer.vb">
+      <DependentUpon>FormOperadoresConcatenacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormOperadoresConcatenacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOperadoresLogicos.Designer.vb">
+      <DependentUpon>FormOperadoresLogicos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormOperadoresLogicos.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -118,6 +136,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormOperadores.resx">
       <DependentUpon>FormOperadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOperadoresComparacion.resx">
+      <DependentUpon>FormOperadoresComparacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOperadoresConcatenacion.resx">
+      <DependentUpon>FormOperadoresConcatenacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOperadoresLogicos.resx">
+      <DependentUpon>FormOperadoresLogicos.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
