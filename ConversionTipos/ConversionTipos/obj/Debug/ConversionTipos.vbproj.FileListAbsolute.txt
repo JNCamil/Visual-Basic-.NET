@@ -11,3 +11,4 @@ D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTi
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.xml
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.pdb
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.Form2.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormOperadores.resources

@@ -61,4 +61,32 @@
         Form2.Show()
 
     End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        'En Visual Basic, una variable Static conserva su valor entre llamadas sucesivas al procedimiento en el que está declarada.'
+        ' Definir una variable estática que conserve su valor entre las llamadas al procedimiento
+        Static contador As Integer
+
+        ' Incrementar el contador en 1
+        contador += 1
+
+        ' Mostrar el valor actual del contador en un cuadro de mensaje
+        MsgBox("El valor actual del contador es: " & contador)
+
+        'Cómo sería de forma normal'
+        Dim apellido As String
+
+        MsgBox(apellido)
+
+        apellido = "NOVAS"
+
+
+        Static edad As Integer
+
+
+        MsgBox(edad)
+        edad = 15
+        'Hay que darle primero al click: mostrará 0 y luego otra vez para que ya se asigne'
+
+    End Sub
 End Class
