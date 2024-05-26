@@ -15,3 +15,7 @@ D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTi
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.pdb
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormOperadoresConcatenacion.resources
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormOperadoresLogicos.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormBloqueIF.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormSELECT_CASE.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormFOR_NEXT.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormWHILE.resources

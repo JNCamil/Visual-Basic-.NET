@@ -86,6 +86,18 @@
     <Compile Include="Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormBloqueIF.Designer.vb">
+      <DependentUpon>FormBloqueIF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBloqueIF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFOR_NEXT.Designer.vb">
+      <DependentUpon>FormFOR_NEXT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormFOR_NEXT.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormOperadores.Designer.vb">
       <DependentUpon>FormOperadores.vb</DependentUpon>
     </Compile>
@@ -108,6 +120,18 @@
       <DependentUpon>FormOperadoresLogicos.vb</DependentUpon>
     </Compile>
     <Compile Include="FormOperadoresLogicos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSELECT_CASE.Designer.vb">
+      <DependentUpon>FormSELECT_CASE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSELECT_CASE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWHILE.Designer.vb">
+      <DependentUpon>FormWHILE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormWHILE.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -134,6 +158,12 @@
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormBloqueIF.resx">
+      <DependentUpon>FormBloqueIF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFOR_NEXT.resx">
+      <DependentUpon>FormFOR_NEXT.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormOperadores.resx">
       <DependentUpon>FormOperadores.vb</DependentUpon>
     </EmbeddedResource>
@@ -145,6 +175,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormOperadoresLogicos.resx">
       <DependentUpon>FormOperadoresLogicos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSELECT_CASE.resx">
+      <DependentUpon>FormSELECT_CASE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWHILE.resx">
+      <DependentUpon>FormWHILE.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
