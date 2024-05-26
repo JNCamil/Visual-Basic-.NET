@@ -19,3 +19,4 @@ D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTi
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormSELECT_CASE.resources
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormFOR_NEXT.resources
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormWHILE.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormVentana.resources

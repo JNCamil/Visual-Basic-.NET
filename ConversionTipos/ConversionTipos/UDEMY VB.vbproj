@@ -128,6 +128,12 @@
     <Compile Include="FormSELECT_CASE.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormVentana.Designer.vb">
+      <DependentUpon>FormVentana.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormVentana.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormWHILE.Designer.vb">
       <DependentUpon>FormWHILE.vb</DependentUpon>
     </Compile>
@@ -178,6 +184,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormSELECT_CASE.resx">
       <DependentUpon>FormSELECT_CASE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVentana.resx">
+      <DependentUpon>FormVentana.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormWHILE.resx">
       <DependentUpon>FormWHILE.vb</DependentUpon>
