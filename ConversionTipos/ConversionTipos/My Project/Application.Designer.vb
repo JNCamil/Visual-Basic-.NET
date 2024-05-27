@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.ConversionTipos.FormVentana
+            Me.MainForm = Global.ConversionTipos.FormDICCIONARIOS
         End Sub
     End Class
 End Namespace

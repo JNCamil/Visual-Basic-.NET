@@ -86,10 +86,22 @@
     <Compile Include="Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormARREGLOS.Designer.vb">
+      <DependentUpon>FormARREGLOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormARREGLOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormBloqueIF.Designer.vb">
       <DependentUpon>FormBloqueIF.vb</DependentUpon>
     </Compile>
     <Compile Include="FormBloqueIF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDICCIONARIOS.Designer.vb">
+      <DependentUpon>FormDICCIONARIOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDICCIONARIOS.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormFOR_NEXT.Designer.vb">
@@ -122,6 +134,12 @@
     <Compile Include="FormOperadoresLogicos.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormProcedimientosSub.Designer.vb">
+      <DependentUpon>FormProcedimientosSub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormProcedimientosSub.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormSELECT_CASE.Designer.vb">
       <DependentUpon>FormSELECT_CASE.vb</DependentUpon>
     </Compile>
@@ -140,6 +158,7 @@
     <Compile Include="FormWHILE.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -164,6 +183,9 @@
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormARREGLOS.resx">
+      <DependentUpon>FormARREGLOS.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormBloqueIF.resx">
       <DependentUpon>FormBloqueIF.vb</DependentUpon>
     </EmbeddedResource>
@@ -181,6 +203,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormOperadoresLogicos.resx">
       <DependentUpon>FormOperadoresLogicos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProcedimientosSub.resx">
+      <DependentUpon>FormProcedimientosSub.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormSELECT_CASE.resx">
       <DependentUpon>FormSELECT_CASE.vb</DependentUpon>
