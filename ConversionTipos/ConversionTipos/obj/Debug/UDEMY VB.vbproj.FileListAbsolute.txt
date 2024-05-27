@@ -24,3 +24,4 @@ D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTi
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormARREGLOS.resources
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormDICCIONARIOS.resources
 D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormDATATABLES.resources
+D:\CURSOS\.NET\UDEMY .NET\ConversionTipos\ConversionTipos\obj\Debug\ConversionTipos.FormTRYCATCH.resources

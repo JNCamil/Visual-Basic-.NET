@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.ConversionTipos.FormDATATABLES
+            Me.MainForm = Global.ConversionTipos.FormTRYCATCH
         End Sub
     End Class
 End Namespace
