@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class FormDICCIONARIOS
+Partial Class FormDATATABLES
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
@@ -22,29 +22,29 @@ Partial Class FormDICCIONARIOS
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.BTNpROCESA = New System.Windows.Forms.Button()
+        Me.btnGeneradatatable = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
-        'BTNpROCESA
+        'btnGeneradatatable
         '
-        Me.BTNpROCESA.Location = New System.Drawing.Point(239, 124)
-        Me.BTNpROCESA.Name = "BTNpROCESA"
-        Me.BTNpROCESA.Size = New System.Drawing.Size(205, 126)
-        Me.BTNpROCESA.TabIndex = 0
-        Me.BTNpROCESA.Text = "PROCESAR"
-        Me.BTNpROCESA.UseVisualStyleBackColor = True
+        Me.btnGeneradatatable.Location = New System.Drawing.Point(264, 127)
+        Me.btnGeneradatatable.Name = "btnGeneradatatable"
+        Me.btnGeneradatatable.Size = New System.Drawing.Size(210, 148)
+        Me.btnGeneradatatable.TabIndex = 0
+        Me.btnGeneradatatable.Text = "Genera datatable"
+        Me.btnGeneradatatable.UseVisualStyleBackColor = True
         '
-        'FormDICCIONARIOS
+        'FormDATATABLES
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.BTNpROCESA)
-        Me.Name = "FormDICCIONARIOS"
-        Me.Text = "FormDICCIONARIOS"
+        Me.Controls.Add(Me.btnGeneradatatable)
+        Me.Name = "FormDATATABLES"
+        Me.Text = "FormDATATABLES"
         Me.ResumeLayout(False)
 
     End Sub
 
-    Friend WithEvents BTNpROCESA As Button
+    Friend WithEvents btnGeneradatatable As Button
 End Class

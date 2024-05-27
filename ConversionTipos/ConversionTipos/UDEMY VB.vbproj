@@ -98,6 +98,12 @@
     <Compile Include="FormBloqueIF.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormDATATABLES.Designer.vb">
+      <DependentUpon>FormDATATABLES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDATATABLES.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormDICCIONARIOS.Designer.vb">
       <DependentUpon>FormDICCIONARIOS.vb</DependentUpon>
     </Compile>
@@ -188,6 +194,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormBloqueIF.resx">
       <DependentUpon>FormBloqueIF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDATATABLES.resx">
+      <DependentUpon>FormDATATABLES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDICCIONARIOS.resx">
+      <DependentUpon>FormDICCIONARIOS.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormFOR_NEXT.resx">
       <DependentUpon>FormFOR_NEXT.vb</DependentUpon>
