@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+  <producto>
+    <id>1</id>
+    <nombre>Monitor 17 plg</nombre>
+    <precio>3500</precio>
+    <estado>1</estado>
+  </producto>
+  <producto>
+    <id>3</id>
+    <nombre>Bocinas 2.1</nombre>
+    <precio>1000</precio>
+    <estado>0</estado>
+  </producto>
+  <producto>
+    <id>4</id>
+    <nombre>TECLADO ORIGINAL</nombre>
+    <precio>500</precio>
+    <estado>1</estado>
+  </producto>
+  <producto>
+    <id>5</id>
+    <nombre>guantes</nombre>
+    <precio>10</precio>
+    <estado>1</estado>
+  </producto>
+</tabla>
